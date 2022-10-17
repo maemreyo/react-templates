@@ -1,3 +1,14 @@
+**This branch is the basic template for React App.**
+- TODO: Create a React app with Typescript
+- TODO: Create a React app with Typescript, Storybook
+- TODO: Create a React app with Typescript, Storybook and Webpack 4
+- TODO: Create a React app with Typescript, Storybook and Webpack 5
+- TODO: Create a React app with Typescript and Husky
+- TODO: Create a React app with Typescript, Husky and Redux Toolkits
+- TODO: Create a React app with Typescript, Husky and Context API
+- TODO: Create a React app with Typescript, Storybook, Webpack 5, Husky and Redux Toolkits
+- TODO: Create a React app with NextJS
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
