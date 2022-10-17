@@ -8,6 +8,7 @@
 - TODO: Create a React app with Typescript, Husky and Context API
 - TODO: Create a React app with Typescript, Storybook, Webpack 5, Husky and Redux Toolkits
 - TODO: Create a React app with NextJS
+- TODO: Create a React app that can be published as npm package
 ---
 # Getting Started with Create React App
 
