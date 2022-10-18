@@ -1,6 +1,6 @@
 **This branch is the basic template for React App.**
 - TODO: Create a React app with CRA
-- TODO: Create a React app with Typescript
+- DONE: Create a React app with Typescript, ESLint, Prettier
 - TODO: Create a React app with Typescript, Storybook
 - TODO: Create a React app with Typescript, Storybook and Webpack 4
 - TODO: Create a React app with Typescript, Storybook and Webpack 5
