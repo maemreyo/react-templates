@@ -1,0 +1,31 @@
+{
+    "recommendations": [
+        "softwaredotcom.swdc-100-days-of-code",
+        "formulahendry.auto-rename-tag",
+        "aaron-bond.better-comments",
+        "softwaredotcom.swdc-vscode",
+        "dbaeumer.vscode-eslint",
+        "shyykoserhiy.git-autoconfig",
+        "visualstudioexptteam.vscodeintellicode",
+        "visualstudioexptteam.intellicode-api-usage-examples",
+        "sburg.vscode-javascript-booster",
+        "orta.vscode-jest",
+        "wholroyd.jinja",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.vscode-jupyter-cell-tags",
+        "ms-toolsai.jupyter-keymap",
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.vscode-jupyter-slideshow",
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "stateful.marquee",
+        "pkief.material-icon-theme",
+        "esbenp.prettier-vscode",
+        "humao.rest-client",
+        "robbowen.synthwave-vscode",
+        "tabnine.tabnine-vscode",
+        "gruntfuggly.todo-tree",
+        "rioukkevin.vscode-git-commit",
+        "redhat.vscode-xml"
+    ]
+}
